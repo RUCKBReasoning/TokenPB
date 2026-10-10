@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Logs / outputs / checkpoints
+*.log
+outputs/
+output_ckpt*/
+*.pt
+*.bin
+*.safetensors
+
+# Editor / OS
+.DS_Store
+.vscode/
+
+# openpi downloaded assets / outputs (never commit these)
+openpi/.cache_openpi/
+openpi/checkpoints/
+openpi/wandb/
+
