@@ -1,12 +1,6 @@
 <div align="center">
 
-# TokenPB
-
-### TokenPB: Enabling VLA Action Self-Verification via VLM Token Probability Bucketing
-
-**Token Probability Bucketing for Vision-Language-Action models**
-
-![NeurIPS 2026 Accepted · Python 3.10 · PyTorch](assets/readme-badges.svg)
+# TokenPB: Enabling VLA Action Self-Verification via VLM Token Probability Bucketing
 
 [Overview](#overview) · [Installation](#installation) · [Data](#data) · [Training](#training) · [Inference](#inference) · [π0.5 Port](#pi05-port)
 
